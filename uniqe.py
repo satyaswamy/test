@@ -1,4 +1,4 @@
-## This script is to check the list or array and get the uniqe data and print the number of occurance of the same 
+# This script is to check the list or array and get the uniqe data and print the number of occurance of the same 
 
 Ilist=input("Enter the list of data with repeted items, seperated by ,:")
 print(Ilist)
